@@ -11,6 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GivenWhenThen Pattern](https://dev.to/smotastic/givenwhenthen-pattern-5bno)
+- [Layer vs Feature Architecture](https://dev.to/smotastic/layer-vs-feature-architecture-3cko)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
