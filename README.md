@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm smotastic</h1>
-<h3 align="center">Passionate, maybe a bit arrogant, Software Developer who likes to have countless private projects which will probably never be finished</h3>
+<h3 align="center">Passionate Software Developer who likes to have countless private projects which will probably never be finished</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smotastic&theme=onedark" alt="smotastic" /></a> </p>
 
